@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/HunarKaur2007/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/0912-sort-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HunarKaur2007/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Greedy
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1667-fix-names-in-a-table](https://github.com/HunarKaur2007/LeetCode/tree/master/1667-fix-names-in-a-table) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/HunarKaur2007/LeetCode/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
