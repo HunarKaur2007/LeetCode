@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HunarKaur2007/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Database
+|  |
+| ------- |
+| [1667-fix-names-in-a-table](https://github.com/HunarKaur2007/LeetCode/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
