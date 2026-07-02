@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/HunarKaur2007/LeetCode/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HunarKaur2007/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/HunarKaur2007/LeetCode/tree/master/0875-koko-eating-bananas) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/HunarKaur2007/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
