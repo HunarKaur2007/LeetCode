@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/HunarKaur2007/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/0912-sort-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HunarKaur2007/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Greedy
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/HunarKaur2007/LeetCode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/0912-sort-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HunarKaur2007/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Divide and Conquer
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/HunarKaur2007/LeetCode/tree/master/0205-isomorphic-strings) |
+| [1331-rank-transform-of-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HunarKaur2007/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
