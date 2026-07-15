@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/HunarKaur2007/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/HunarKaur2007/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1331-rank-transform-of-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HunarKaur2007/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/HunarKaur2007/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/HunarKaur2007/LeetCode/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HunarKaur2007/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
