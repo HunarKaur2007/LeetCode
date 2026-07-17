@@ -85,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/HunarKaur2007/LeetCode/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HunarKaur2007/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/HunarKaur2007/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
