@@ -8,6 +8,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0912-sort-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HunarKaur2007/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1856-maximum-subarray-min-product](https://github.com/HunarKaur2007/LeetCode/tree/master/1856-maximum-subarray-min-product) |
 ## Greedy
 |  |
 | ------- |
@@ -98,4 +99,16 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HunarKaur2007/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Stack
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/HunarKaur2007/LeetCode/tree/master/1856-maximum-subarray-min-product) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/HunarKaur2007/LeetCode/tree/master/1856-maximum-subarray-min-product) |
+## Prefix Sum
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/HunarKaur2007/LeetCode/tree/master/1856-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->
