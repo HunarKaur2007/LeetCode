@@ -6,6 +6,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/HunarKaur2007/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/HunarKaur2007/LeetCode/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HunarKaur2007/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1856-maximum-subarray-min-product](https://github.com/HunarKaur2007/LeetCode/tree/master/1856-maximum-subarray-min-product) |
@@ -111,4 +112,12 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 |  |
 | ------- |
 | [1856-maximum-subarray-min-product](https://github.com/HunarKaur2007/LeetCode/tree/master/1856-maximum-subarray-min-product) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/HunarKaur2007/LeetCode/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/HunarKaur2007/LeetCode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
