@@ -95,6 +95,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HunarKaur2007/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -115,9 +116,18 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0100-same-tree) |
 | [0994-rotting-oranges](https://github.com/HunarKaur2007/LeetCode/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/HunarKaur2007/LeetCode/tree/master/0994-rotting-oranges) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
