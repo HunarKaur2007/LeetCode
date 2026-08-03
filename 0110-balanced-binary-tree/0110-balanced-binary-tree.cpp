@@ -24,4 +24,5 @@ public:
     bool isBalanced(TreeNode* root) {
         return height(root) != -1;
     }
+    //height is no of nodes not edges 
 };
