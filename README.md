@@ -97,6 +97,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HunarKaur2007/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HunarKaur2007/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Doubly-Linked List
 |  |
@@ -128,14 +129,20 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HunarKaur2007/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HunarKaur2007/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HunarKaur2007/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
