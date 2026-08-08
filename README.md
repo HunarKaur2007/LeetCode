@@ -29,6 +29,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/HunarKaur2007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -144,6 +145,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HunarKaur2007/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/HunarKaur2007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HunarKaur2007/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -156,11 +158,13 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HunarKaur2007/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/HunarKaur2007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HunarKaur2007/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/HunarKaur2007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HunarKaur2007/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## DP on Trees
 |  |
@@ -174,4 +178,12 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/HunarKaur2007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/HunarKaur2007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
