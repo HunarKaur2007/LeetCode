@@ -4,6 +4,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/HunarKaur2007/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/HunarKaur2007/LeetCode/tree/master/0994-rotting-oranges) |
@@ -24,6 +25,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/HunarKaur2007/LeetCode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -140,6 +142,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HunarKaur2007/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HunarKaur2007/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -153,6 +156,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HunarKaur2007/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HunarKaur2007/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -164,6 +168,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HunarKaur2007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HunarKaur2007/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## DP on Trees
