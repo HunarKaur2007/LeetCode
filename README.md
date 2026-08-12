@@ -61,6 +61,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/HunarKaur2007/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0796-rotate-string](https://github.com/HunarKaur2007/LeetCode/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HunarKaur2007/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -104,6 +105,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/HunarKaur2007/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HunarKaur2007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HunarKaur2007/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0513-find-bottom-left-tree-value](https://github.com/HunarKaur2007/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -131,6 +133,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0100-same-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HunarKaur2007/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HunarKaur2007/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HunarKaur2007/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HunarKaur2007/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/HunarKaur2007/LeetCode/tree/master/0994-rotting-oranges) |
@@ -150,6 +153,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/HunarKaur2007/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HunarKaur2007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/HunarKaur2007/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/HunarKaur2007/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -167,6 +171,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/HunarKaur2007/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HunarKaur2007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/HunarKaur2007/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/HunarKaur2007/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -197,6 +202,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HunarKaur2007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
