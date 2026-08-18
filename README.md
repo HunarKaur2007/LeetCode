@@ -11,6 +11,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HunarKaur2007/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1856-maximum-subarray-min-product](https://github.com/HunarKaur2007/LeetCode/tree/master/1856-maximum-subarray-min-product) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/HunarKaur2007/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0205-isomorphic-strings](https://github.com/HunarKaur2007/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1331-rank-transform-of-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HunarKaur2007/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/HunarKaur2007/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
