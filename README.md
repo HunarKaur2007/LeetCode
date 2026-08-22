@@ -9,6 +9,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0912-sort-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/HunarKaur2007/LeetCode/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/HunarKaur2007/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HunarKaur2007/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1856-maximum-subarray-min-product](https://github.com/HunarKaur2007/LeetCode/tree/master/1856-maximum-subarray-min-product) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HunarKaur2007/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -114,6 +115,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0684-redundant-connection](https://github.com/HunarKaur2007/LeetCode/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HunarKaur2007/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/HunarKaur2007/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -142,10 +144,12 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HunarKaur2007/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/HunarKaur2007/LeetCode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/HunarKaur2007/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/HunarKaur2007/LeetCode/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/HunarKaur2007/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Tree
 |  |
 | ------- |
@@ -216,6 +220,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/HunarKaur2007/LeetCode/tree/master/0684-redundant-connection) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/HunarKaur2007/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
 |  |
 | ------- |
