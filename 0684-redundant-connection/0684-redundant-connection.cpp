@@ -1,27 +1,28 @@
 class Solution {
 public:
-    vector<int> parent;
-    int find(int x){
-        if(parent[x]==x) return x;
-        return parent[x] = find(parent[x]);
+    bool dfs(int node, int parent, vector<vector<int>>&adj, vector<int>& vis){
+        vis[node]=1;
+        for(int i=0;i<adj[node].size();i++){
+            int neighbour = adj[node][i];
+            if(vis[neighbour] == 0){
+                if(dfs(neighbour, node, adj, vis)) return true;}
+                else if (neighbour != parent) return true;
+            
+        }
+        return false;
     }
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
-        int n =edges.size();
-        parent.resize(n+1);
-        for(int i=1;i<=n;i++){
-            parent[i]=i;
-        }//make every node its own parent
-        for(auto edge : edges){
-            //extract 2 nodes
-            int u= edge[0];
-            int v= edge[1];
-            //find thier roots
-            int pu=find(u);
-            int pv=find(v);
-            //if pu = pv that means u and v are already connected, adding this edge would create a cycle thus its redundant edge
-            if(pu==pv) return edge; //same grp = cycle
-            //merge 2 grps if grps different
-            parent[pu] = pv;
+        int n = edges.size();
+        vector<vector<int>>adj(n+1);
+        for(int i=0;i<edges.size();i++){
+            int u =edges[i][0];
+            int v= edges[i][1];
+            adj[u].push_back(v);
+            adj[v].push_back(u);
+            vector<int> vis(n+1,0);
+            if(dfs(u,-1,adj,vis)){
+                return edges[i];
+            }
         }
         return {};
     }
