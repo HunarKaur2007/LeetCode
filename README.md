@@ -111,6 +111,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HunarKaur2007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/HunarKaur2007/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HunarKaur2007/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0513-find-bottom-left-tree-value](https://github.com/HunarKaur2007/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -143,6 +144,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/HunarKaur2007/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/HunarKaur2007/LeetCode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/HunarKaur2007/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0513-find-bottom-left-tree-value](https://github.com/HunarKaur2007/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0684-redundant-connection](https://github.com/HunarKaur2007/LeetCode/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HunarKaur2007/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -232,6 +234,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 ## Graph Theory
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/HunarKaur2007/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/HunarKaur2007/LeetCode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/HunarKaur2007/LeetCode/tree/master/0785-is-graph-bipartite) |
 ## Graph Coloring
@@ -242,4 +245,8 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/HunarKaur2007/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/HunarKaur2007/LeetCode/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
