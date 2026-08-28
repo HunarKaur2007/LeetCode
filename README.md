@@ -116,6 +116,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/HunarKaur2007/LeetCode/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HunarKaur2007/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/HunarKaur2007/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HunarKaur2007/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Doubly-Linked List
@@ -145,6 +146,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0513-find-bottom-left-tree-value](https://github.com/HunarKaur2007/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0684-redundant-connection](https://github.com/HunarKaur2007/LeetCode/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HunarKaur2007/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/HunarKaur2007/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/HunarKaur2007/LeetCode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HunarKaur2007/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -225,9 +227,19 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | ------- |
 | [0200-number-of-islands](https://github.com/HunarKaur2007/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/HunarKaur2007/LeetCode/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/HunarKaur2007/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HunarKaur2007/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/HunarKaur2007/LeetCode/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/HunarKaur2007/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/HunarKaur2007/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/HunarKaur2007/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
