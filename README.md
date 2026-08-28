@@ -5,6 +5,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/HunarKaur2007/LeetCode/tree/master/0200-number-of-islands) |
 | [0875-koko-eating-bananas](https://github.com/HunarKaur2007/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/HunarKaur2007/LeetCode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/HunarKaur2007/LeetCode/tree/master/0994-rotting-oranges) |
@@ -106,6 +107,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0100-same-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HunarKaur2007/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/HunarKaur2007/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HunarKaur2007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -138,6 +140,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0100-same-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HunarKaur2007/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HunarKaur2007/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/HunarKaur2007/LeetCode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HunarKaur2007/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0684-redundant-connection](https://github.com/HunarKaur2007/LeetCode/tree/master/0684-redundant-connection) |
@@ -148,6 +151,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/HunarKaur2007/LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/HunarKaur2007/LeetCode/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HunarKaur2007/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Tree
@@ -219,6 +223,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/HunarKaur2007/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/HunarKaur2007/LeetCode/tree/master/0684-redundant-connection) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HunarKaur2007/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
