@@ -109,6 +109,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0110-balanced-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HunarKaur2007/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/HunarKaur2007/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/HunarKaur2007/LeetCode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HunarKaur2007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -145,6 +146,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/HunarKaur2007/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HunarKaur2007/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/HunarKaur2007/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/HunarKaur2007/LeetCode/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HunarKaur2007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/HunarKaur2007/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HunarKaur2007/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -238,6 +240,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/HunarKaur2007/LeetCode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/HunarKaur2007/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HunarKaur2007/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/HunarKaur2007/LeetCode/tree/master/0684-redundant-connection) |
@@ -253,6 +256,7 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/HunarKaur2007/LeetCode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/HunarKaur2007/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HunarKaur2007/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Dynamic Programming
@@ -266,5 +270,6 @@ A collection of frequently asked LeetCode questions to ace any coding interview!
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/HunarKaur2007/LeetCode/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/HunarKaur2007/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
